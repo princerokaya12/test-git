@@ -1,3 +1,3 @@
 # test-git
 
-test git readme desc
+test git description
